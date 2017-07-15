@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en" class="desktop-view not-mobile-device  anon">
+  <head>
+    <meta charset="utf-8">
+    <title>Gizzar. Revived.</title>
+    <meta name="description" content="Hey remember how we had a forum many years ago? Yeah that.">
+    <meta name="author" content="">
+<meta name="generator" content="Discourse 1.8.0.beta6 - https://github.com/discourse/discourse version fdf749770bfbc868660cc37cf8e77ce57805b7fa">
+<link rel="icon" type="image/png" href="images/default-favicon.ico">
+<link rel="apple-touch-icon" type="image/png" href="images/default-apple-touch-icon.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"http://gizzar.com","potentialAction":{"@type":"SearchAction","target":"http://gizzar.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch.xml" title="Gizzar. Revived. Search">
+
+    
+
+<style>
+  @font-face {
+    font-family: 'FontAwesome';
+    src: url('assets/fontawesome-webfont-ff82aeed6b9bb6701696c84d1b223d2e682eb78c89117a438ce6cfea8c498995.woff2?http:%252F%252Fgizzar.com&amp%3B2&v=4.5.0') format('woff2'),
+         url('assets/fontawesome-webfont-c812ddc9e475d3e65d68a6b3b589ce598a2a5babb7afc55477d59215c4a38a40.woff?http:%252F%252Fgizzar.com&amp%3B2&v=4.5.0') format('woff');
+  }
+</style>
+
+      <link href="stylesheets/desktop_29915d2971516e7f34ff40078010f8dd9908f0ac.css?__ws=gizzar.com" media="all" rel="stylesheet" />
+
+
+  
+
+    
+
+      <meta name="fragment" content="!">
+
+
+    <script>
+      window.EmberENV = window.EmberENV || {};
+      window.EmberENV['FORCE_JQUERY'] = true;
+    </script>
+
+    <script src="assets/locales/en-d0605bced1699f020efd38d131cb59183ce2ba5c167dc83c79fcfbdced621c6d.js"></script>
+    <script src="assets/ember_jquery-60dedd1dca1d8b8ce48b6d0087db3b96f3149b9b5af2d0c7c6357967d29031fb.js"></script>
+    <script src="assets/preload-store-9a5d6688476c54b0eb6e11cf444ab9dc19602f99f10114228f41fe605c31ac4d.js"></script>
+    <script src="assets/vendor-52ed1f7ea87a692ca7ec8f3b75bb76997f730cae151edfe8f467849ef9ddde78.js"></script>
+    <script src="assets/pretty-text-bundle-04ac5b2eae6ead3ce5d5994ccd1e264320fb14970bb0dd812e392773769b9e7f.js"></script>
+    <script src="assets/application-397458fb2a02d1e112d2eab88b6b497d0736acadfe6ffa2b7f87eb6020801972.js"></script>
+    <script src="assets/plugin-42cd456746693c5f53968f55f75b9bbd2229af23c34eaa9fb99393d194390252.js"></script>
+    <script src="assets/plugin-third-party-1c972d03b7bf419ea46fe4c258157766a5958061fbc66b2d19c8db2df1de2f97.js"></script>
+
+
+      
+
+    
+    <link rel="manifest" href="manifest.json">
+
+
+    
+  </head>
+
+  <body class="">
+    
+
+    <div class='debug-eyeline'></div>
+
+    <noscript data-path="/login">
+      <header class="d-header">
+  <div class="wrap">
+    <div class="contents">
+      <div class="row">
+        <div class="title span13">
+          <a href="index.html">
+              <img src="images/d-logo-sketch.png" alt="Gizzar. Revived." id="site-logo">
+          </a>
+        </div>
+            <div class='panel clearfix'>
+              <a href="c/site-feedback" class='btn btn-primary btn-small login-button'><i class="fa fa-user"></i> Log In</a>
+            </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+      <div id="main-outlet" class="wrap">
+        <!-- preload-content: -->
+          <h1><a href="c/site-feedback#welcome">Welcome to Gizzar. Revived.</a></h1>
+
+<p>An account is required. Please create an account or log in to continue.</p>
+
+        <!-- :preload-content -->
+        <footer>
+          <nav itemscope itemtype='http://schema.org/SiteNavigationElement'>
+            <a href='index.html'>Home</a>
+            <a href="categories">Categories</a>
+            <a href="guidelines">FAQ/Guidelines</a>
+            <a href="tos">Terms of Service</a>
+            <a href="privacy">Privacy Policy</a>
+          </nav>
+        </footer>
+      </div>
+
+      <footer id='noscript-footer'>
+        <p>Powered by <a href="http://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+      </footer>
+    </noscript>
+
+      
+
+    <section id='main'>
+    </section>
+
+    <div id='offscreen-content'>
+    </div>
+
+      <form id='hidden-login-form' method="post" action="c/site-feedback" style="display: none;">
+        <input name="username" type="text"     id="signin_username">
+        <input name="password" type="password" id="signin_password">
+        <input name="redirect" type="hidden">
+        <input type="submit" id="signin-button" value="Log In">
+      </form>
+
+      <script>
+      (function() {
+        var ps = require('preload-store').default;
+          ps.store("site", {"periods":["all","yearly","quarterly","monthly","weekly","daily"],"filters":["latest","unread","new","read","posted","bookmarks"],"user_fields":[]});
+          ps.store("siteSettings", {"title":"Gizzar. Revived.","contact_email":"ken@gizzar.com","contact_url":"","logo_url":"/images/d-logo-sketch.png","logo_small_url":"/images/d-logo-sketch-small.png","mobile_logo_url":"","favicon_url":"/images/default-favicon.ico","allow_user_locale":false,"suggested_topics":5,"track_external_right_clicks":false,"ga_universal_tracking_code":"","ga_universal_domain_name":"auto","ga_tracking_code":"","ga_domain_name":"","gtm_container_id":"","top_menu":"latest|new|unread|top|categories","post_menu":"like-count|like|share|flag|edit|bookmark|delete|admin|reply","post_menu_hidden_items":"flag|bookmark|edit|delete|admin","share_links":"twitter|facebook|email","desktop_category_page_style":"categories_and_latest_topics","category_colors":"BF1E2E|F1592A|F7941D|9EB83B|3AB54A|12A89D|25AAE2|0E76BD|652D90|92278F|ED207B|8C6238|231F20|808281|B3B5B4|283890","category_style":"bullet","enable_mobile_theme":true,"relative_date_duration":30,"category_featured_topics":3,"fixed_category_positions":false,"fixed_category_positions_on_create":false,"enable_badges":true,"enable_badge_sql":false,"enable_whispers":false,"invite_only":true,"login_required":true,"must_approve_users":false,"enable_local_logins":true,"allow_new_registrations":true,"enable_signup_cta":true,"enable_google_oauth2_logins":false,"enable_yahoo_logins":false,"enable_twitter_logins":false,"enable_instagram_logins":false,"enable_facebook_logins":false,"enable_github_logins":false,"enable_sso":false,"sso_overrides_avatar":false,"min_username_length":3,"max_username_length":20,"min_password_length":10,"min_admin_password_length":15,"logout_redirect":"","full_name_required":false,"enable_names":true,"invites_per_page":40,"delete_user_max_post_age":60,"delete_all_posts_max":15,"show_email_on_profile":false,"prioritize_username_in_ux":true,"enable_user_directory":true,"allow_anonymous_posting":false,"anonymous_posting_min_trust_level":1,"hide_user_profiles_from_public":false,"enable_group_directory":true,"min_post_length":20,"min_first_post_length":20,"min_private_message_post_length":10,"max_post_length":32000,"topic_featured_link_enabled":true,"min_topic_title_length":15,"max_topic_title_length":255,"min_private_message_title_length":2,"allow_uncategorized_topics":true,"min_title_similar_length":10,"min_body_similar_length":15,"enable_private_messages":true,"edit_history_visible_to_public":true,"delete_removed_posts_after":24,"traditional_markdown_linebreaks":false,"allow_html_tables":false,"suppress_reply_directly_below":true,"suppress_reply_directly_above":true,"max_reply_history":1,"newuser_max_images":1,"newuser_max_attachments":0,"show_pinned_excerpt_mobile":true,"show_pinned_excerpt_desktop":true,"display_name_on_posts":false,"show_time_gap_days":7,"short_progress_text_threshold":10000,"default_code_lang":"auto","autohighlight_all_code":false,"highlighted_languages":"apache|bash|cs|cpp|css|coffeescript|diff|xml|http|ini|json|java|javascript|makefile|markdown|nginx|objectivec|ruby|perl|php|python|sql|handlebars","censored_words":"","censored_pattern":"","enable_emoji":true,"emoji_set":"apple","code_formatting_style":"4-spaces-indent","allowed_href_schemes":"","email_time_window_mins":10,"disable_digest_emails":false,"email_in":false,"disable_emails":false,"bounce_score_threshold":4,"max_image_size_kb":3072,"max_attachment_size_kb":3072,"authorized_extensions":"jpg|jpeg|png|gif","max_image_width":690,"max_image_height":500,"prevent_anons_from_downloading_files":false,"enable_s3_uploads":false,"allow_profile_backgrounds":true,"allow_uploaded_avatars":true,"allow_animated_avatars":false,"default_avatars":"","external_system_avatars_enabled":true,"external_system_avatars_url":"/letter_avatar_proxy/v2/letter/{first_letter}/{color}/{size}.png","tl1_requires_read_posts":30,"tl3_links_no_follow":false,"use_admin_ip_whitelist":false,"max_oneboxes_per_post":50,"alert_admins_if_errors_per_minute":0,"alert_admins_if_errors_per_hour":0,"max_prints_per_hour_per_user":5,"enable_long_polling":true,"long_polling_base_url":"/","background_polling_interval":60000,"polling_interval":3000,"anon_polling_interval":15000,"flush_timings_secs":20,"verbose_localization":false,"max_new_topics":500,"tos_url":"","privacy_policy_url":"","faq_url":"","maximum_backups":5,"min_search_term_length":3,"version_checks":true,"suppress_uncategorized_badge":true,"topic_views_heat_low":1000,"topic_views_heat_medium":2000,"topic_views_heat_high":5000,"topic_post_like_heat_low":0.5,"topic_post_like_heat_medium":1.0,"topic_post_like_heat_high":2.0,"history_hours_low":12,"history_hours_medium":24,"history_hours_high":48,"cold_age_days_low":14,"cold_age_days_medium":90,"cold_age_days_high":180,"global_notice":"","show_create_topics_notice":true,"bootstrap_mode_min_users":50,"bootstrap_mode_enabled":true,"automatically_unpin_topics":true,"read_time_word_count":500,"disable_mailing_list_mode":false,"default_topics_automatic_unpin":true,"tagging_enabled":false,"tag_style":"simple","max_tags_per_topic":5,"max_tag_length":20,"min_trust_level_to_tag_topics":0,"max_tag_search_results":5,"show_filter_by_tag":false,"tags_sort_alphabetically":false,"staff_tags":"","suppress_overlapping_tags_in_list":false,"poll_enabled":true,"poll_maximum_options":20,"details_enabled":true,"available_locales":"ar|bs_BA|cs|da|de|en|es|et|fa_IR|fi|fr|gl|he|id|it|ja|ko|nb_NO|nl|pl_PL|pt|pt_BR|ro|ru|sk|sq|sv|te|tr_TR|uk|ur|vi|zh_CN|zh_TW"});
+          ps.store("customHTML", {"top":"","footer":""});
+          ps.store("banner", {});
+          ps.store("customEmoji", []);
+          ps.store("translationOverrides", {});
+      })();
+      </script>
+
+    
+
+    <script>
+  Ember.RSVP.configure('onerror', function(e) {
+    // Ignore TransitionAborted exceptions that bubble up
+    if (e && e.message === "TransitionAborted") { return; }
+
+    window.onerror(e && e.message, null,null,null,e);
+  });
+
+
+</script>
+
+<script>
+
+  (function() {
+    var ps = require('preload-store').default;
+
+    Discourse.CDN = '';
+    Discourse.BaseUrl = 'gizzar.com'.replace(/:[\d]*$/,"");
+    Discourse.BaseUri = '';
+    Discourse.Environment = 'production';
+    Discourse.SiteSettings = ps.get('siteSettings');
+    Discourse.LetterAvatarVersion = '5_c5b31cccf5394499269817ee339a84bb';
+    I18n.defaultLocale = 'en';
+    Discourse.start();
+    Discourse.set('assetVersion','eb43783bf3240ba3a58d61a54fbcb938');
+    Discourse.Session.currentProp("disableCustomCSS", false);
+    Discourse.HighlightJSPath = "/highlight-js/gizzar.com/133b1767dbeecf92cad6dfc38d42cde22195db05.js";
+  })();
+</script>
+
+<script src="assets/browser-update-f57286e74ddbc53aa899689b01ef467078911e4138050c561939955849af35dd.js"></script>
+
+
+    
+
+      
+  </body>
+</html>

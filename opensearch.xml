@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Gizzar. Revived. Search</ShortName>
+  <Description>Search for posts on Gizzar. Revived.</Description>
+  <Tags>discourse forum</Tags>
+  <Image height="16" width="16" type="image/vnd.microsoft.icon">http://gizzar.com/images/default-favicon.ico</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="http://gizzar.com/opensearch.xml"/>
+  <Url type="text/html" template="http://gizzar.com/search?q={searchTerms}"/>
+  <Query role="example" searchTerms="search term"/>
+</OpenSearchDescription>
